@@ -1,4 +1,4 @@
-<font face="Sans Self" size=6>Higher-Easy Browser</font>
+<font face="Sans Self" size=18>Higher-Easy Browser</font>
 <br><br>
 Version : Beta 1.0
 <br><br>
