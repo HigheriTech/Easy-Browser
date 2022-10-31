@@ -1,4 +1,4 @@
-*__Higher-Easy Browser__*
+*__Higher - Easy Browser__*
 <br>
 *__Version : Beta 1.0__*
 <br>
